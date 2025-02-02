@@ -1,4 +1,3 @@
-- I’m Aline: @bervian-a
-- 📫 Projeto Desenvolve - Bom Despacho
-- ✨ Disciplina: Introdução à Programação Web
-- 😄 Matrícula: PDBD111
+- 😄Aline (@bervian-a)
+- 📫Veterinarian and Full Stack Development Student at Projeto Desenvolve/Bom Despacho
+- ✨ Enthusiast about understanding problems to create solutions that improve people and businesses daily processes
